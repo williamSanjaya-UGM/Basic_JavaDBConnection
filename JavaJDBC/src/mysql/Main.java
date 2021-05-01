@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         String url="jdbc:mysql://localhost:3306/triggering";
         String uname="root";
-        String pass="BiruLaut5_14";
+        String pass="YOUR_DB_PASSWORD";
         String query="INSERT INTO student VALUES(?,?,?,?)";
 
         try{
