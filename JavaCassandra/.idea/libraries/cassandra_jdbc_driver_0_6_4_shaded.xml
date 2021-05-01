@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cassandra-jdbc-driver-0.6.4-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../java_jars/cassandra-jdbc-driver-0.6.4-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
